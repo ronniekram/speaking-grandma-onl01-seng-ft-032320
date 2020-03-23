@@ -14,5 +14,5 @@
 
 
 def speak_to_grandma(string)
-  if string != string.toUpperCase
+  if string != string.
 end
